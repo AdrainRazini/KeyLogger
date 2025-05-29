@@ -9,7 +9,7 @@ Este projeto é um estudo simples sobre:
 ---
 
 ## Estrutura do projeto
-
+```
 KeyLoger/ # Pasta principal
 ├── log.txt # Arquivo de log com teclas capturadas em Base64
 ├── decode_log.py # Script para decodificar log.txt e mostrar teclas legíveis
@@ -17,7 +17,7 @@ KeyLoger/ # Pasta principal
 ├── run_encoded.py # Script para executar código Python codificado em Base64
 ├── my.py # Código Python original (ex: KeyLogger)
 └── README.md # Este arquivo de documentação
-
+```
 
 ---
 
