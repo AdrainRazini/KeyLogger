@@ -35,11 +35,11 @@ KeyLoger/ # Pasta principal
 
 ## Como usar
 codigos do cmd 
-
-== python decodificar_log.py
-== python encode_script.py
-== python run_encoded.py
-
+```
+ python decodificar_log.py
+ python encode_script.py
+ python run_encoded.py
+```
 ### 1. Executar o KeyLogger
 
 O script `my.py` é o programa principal que captura as teclas digitadas e salva no `log.txt` codificado em Base64.
