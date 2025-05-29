@@ -42,6 +42,12 @@ codigos do cmd
 ```
 ### 1. Executar o KeyLogger
 
+```
+| Biblioteca | Versão mínima recomendada | Comando de instalação | Descrição                             |
+| ---------- | ------------------------- | --------------------- | ------------------------------------- |
+| pynput     | 1.7.6                     | `pip install pynput`  | Captura de eventos do teclado e mouse |
+```
+
 O script `my.py` é o programa principal que captura as teclas digitadas e salva no `log.txt` codificado em Base64.
 
 ```bash
